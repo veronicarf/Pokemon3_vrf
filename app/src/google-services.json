@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490347662937",
+    "project_id": "pokemonvrf",
+    "storage_bucket": "pokemonvrf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490347662937:android:6dd34558f2bcb204ef6b48",
+        "android_client_info": {
+          "package_name": "com.romerofernandez.pokemon_vrf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490347662937-7qbhdm2lb87722g3l612btgqdh4u4j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBUwR5gZ61BLlIJk1B88ZWhpJVcpuvko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490347662937-7qbhdm2lb87722g3l612btgqdh4u4j1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

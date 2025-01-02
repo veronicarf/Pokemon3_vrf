@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <color name="color_primary">#B89009</color> <!-- Amarillo -->
+        <color name="color_secondary">#FF0000</color> <!-- Rojo -->
+        <color name="color_accent">#3B4CCA</color> <!-- Azul -->
+        <color name="background">#FFFFFF</color> <!-- Blanco -->
+        <color name="text_color">#000000</color> <!-- Negro -->
+    <color name="button_background_selector">#8A0202</color>
+</resources>

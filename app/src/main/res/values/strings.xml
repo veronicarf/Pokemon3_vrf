@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pokemon_vrf</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="cambiar_idioma">Cambiar idioma</string>
+    <string name="eliminar_pokemon">Eliminar Pokémon Capturados</string>
+    <string name="mis_pokemon">Mis Pokémon</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="main_image_description" />
+    <string name="contrasena">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="acceder">Acceder</string>
+    <string name="email">Email</string>
+    <string name="toast_enter_email">Introduce un email</string>
+    <string name="toast_enter_password">Introduce una contraseña</string>
+    <string name="toast_login_success">Inicio de sesión exitoso</string>
+    <string name="toast_login_failed">Error: %1$s</string> <!-- Placeholder para el mensaje de error -->
+    <string name="error_title">Error</string>
+    <string name="toast_login_failed_generic">Error desconocido. Por favor, inténtalo de nuevo.</string>
+    <string name="password_too_short">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="registration_success">Registro exitoso</string>
+    <string name="inicia_sesin_google">Google</string>
+    <string name="default_web_client_id">490347662937-7qbhdm2lb87722g3l612btgqdh4u4j1b.apps.googleusercontent.com</string>
+    <string name="idioma_seleccion">Selelcione idioma</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Ingles </string>
+    <string name="desarrollador">desarrolador : Verónica Romero Fernández </string>
+    <string name="version">Versión: 1.0.0</string>
+    <string name="error_message">Error en la respuesta: %1$s</string>
+    <string name="name">Name:</string>
+        <string name="index_placeholder">Indice: %d</string> <!-- %d para enteros -->
+        <string name="types_placeholder">Tipo: %s</string> <!-- %s para cadenas -->
+        <string name="height_placeholder">Altura: %.2f m</string> <!-- %.2f para decimales -->
+        <string name="weight_placeholder">Peso:%.2f kg</string> <!-- %.2f para decimales -->
+
+    <string name="error_loading">Error al cargar  Pokémon</string>
+    <string name="pokemon_deleted">Pokémon eliminados</string>
+    <string name="pokemon_captured">Pokémon capturado!</string>
+    <string name="error_capturing_pokemon">Error al capturar Pokémon.</string>
+<string name="error_deleting_pokemon">Error al eliminar lista de Podemons</string>
+    <string name="error_fetching_pokemon_details">Error al obtener detalles del Pokemon</string>
+</resources>
